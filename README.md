@@ -12,6 +12,8 @@ This project gave me my first opportunity to explore those decisions while build
 
 ## What I Wanted to Explore
 
+![power_bi_financials_analysis](power_bi_financials_analysis_page1.JPG) 
+
 Using a financial sales dataset, I explored several business questions:
 
 - How do sales and profits change throughout the year?
